@@ -123,7 +123,7 @@ firebase-crud-app/
 
 ## 👥 Autores
 
-- Tu Nombre - [@tuUsuario](https://github.com/tuUsuario)
+- Luis Suarez
 
 ## 🙏 Agradecimientos
 
